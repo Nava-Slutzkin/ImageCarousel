@@ -1,0 +1,11 @@
+.recipes-carousel {
+  width: 100%;
+}
+
+.recipes-carousel .carousel {
+  max-width: 800px;
+}
+
+.recipes-carousel .carousel-message {
+  margin: 0 auto;
+}
